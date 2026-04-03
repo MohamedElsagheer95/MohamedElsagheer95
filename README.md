@@ -9,7 +9,7 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="https://github.com/MohamedElsagheer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=AI+Engineer+%F0%9F%92%BB;Agentic+AI+%7C+RAG+Enthusiast;Python+%7C+C+++%7C+C#&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=AI+Engineer+%F0%9F%92%BB;&center=true&width=500&height=50">
   </a>
 </p>
 
