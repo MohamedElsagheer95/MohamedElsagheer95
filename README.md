@@ -97,32 +97,9 @@ With expertise in **Python**, **C++**, and **C#**, I focus on translating cuttin
  
 ---
  
-## 📊 GitHub Analytics
+
  
-<div align="center">
- 
-### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElsagheer&show_icons=true&theme=radical&count_private=true&hide_border=true)
- 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElsagheer&layout=compact&theme=radical&hide_border=true&count_private=true)
- 
-### GitHub Activity
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElsagheer&theme=radical)
- 
-</div>
- 
----
- 
-## 🎓 Education & Certifications
- 
-```
-Sohag University | Faculty of Engineering
-→ Strong foundation in computer science and engineering principles
-→ Expertise in advanced algorithms and system design
-```
- 
----
+
  
 ## 🔗 Connect With Me
  
