@@ -9,7 +9,7 @@ Copy
  
 <p align="center">
   <a href="https://github.com/MohamedElsagheer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=500&lines=AI+Engineer+%F0%9F%92%BB;Autonomous+Systems+Specialist;Agentic+AI+%7C+RAG+Expert;Building+Intelligent+Automation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=1E90FF&random=false&width=500&lines=AI+Engineer+%F0%9F%92%BB;Autonomous+Systems+Specialist;Agentic+AI+%7C+RAG+Expert;Building+Intelligent+Automation" />
   </a>
 </p>
  
